@@ -1,2 +1,3 @@
 lo visto en la clse de hoy fue:
 fue espectacular
+ramas como ignorar archivos para no ser comprometidos en el trabajo
